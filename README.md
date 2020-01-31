@@ -13,7 +13,7 @@ Arquitetura e criação do backend - GoBarber
 Para usar baixe o Npm ou Yarn
 
 ```bash
-# Clone this repository
+# Clone this repository 
 $ git clone https://github.com/troquatte/estudo-gobarber.git
 
 # Go into the repository
