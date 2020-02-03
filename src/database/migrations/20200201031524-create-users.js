@@ -19,7 +19,7 @@ module.exports = {
 				unique: true
 			},
 			password_hash: {
-				type: Sequelize.INTEGER,
+				type: Sequelize.STRING,
 				allowNull: false
 			},
 			provider: {
